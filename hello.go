@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	//fmt.Println("Olá, Mundo!")
+	fmt.Println("Olá, Mundo!")
 	fmt.Println(quote.Go())
 }
