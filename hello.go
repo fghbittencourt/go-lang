@@ -10,3 +10,5 @@ func main() {
 	//fmt.Println("Olá, Mundo!")
 	fmt.Println(quote.Go())
 }
+
+//test 3
